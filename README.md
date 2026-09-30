@@ -26,3 +26,6 @@ Scheme B = normal way, no priority
 - need 2 paths to get anything
 
 At the end we compare both schemes.
+
+
+<img width="689" height="440" alt="download" src="https://github.com/user-attachments/assets/45ca6047-7cd3-4256-9799-fb95e98c16fe" />
